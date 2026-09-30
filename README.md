@@ -43,3 +43,7 @@ for (var i = 0; i < ids.length; i++) {
     reportCreate("report", report);
 }
 ```
+
+## Contribuições
+
+Código desenvolvido pelo Prof. Gerson durante conversas no curso de Física Computacional de 2026, com auxílio dos estudantes Thiago Tome Costa Moreira e Lucas Dias Rodrigues.
